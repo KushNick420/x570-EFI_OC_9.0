@@ -1,7 +1,7 @@
 # x570-EFI
 MSI MPG Gaming Edge Wifi Opencore EFI
 
-Bootloader: Opencore 8.6
+Bootloader: Opencore 9.0
 
 - CPU: Ryzen 5 3600
 - Mobo: MSI MPG x570 Gaming Edge Wifi
